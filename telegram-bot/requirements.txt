@@ -1,0 +1,8 @@
+# Dependencias del Bot de Telegram
+# Sistema de Registro de Pandillas - San Luis Potosí
+
+# Biblioteca principal para el bot de Telegram
+python-telegram-bot>=20.0
+
+# Cliente HTTP asíncrono para llamadas a la API
+aiohttp>=3.9.0
